@@ -1,20 +1,5 @@
-# OPC Foundation UA ANSI C Stack Legacy
+# Fork from OPC Foundation UA ANSI C Stack Legacy
 ---
-**This repository (https://github.com/OPCFoundation/UA-AnsiC-Legacy) will be closed end of February 2021. 
-The license  for any forks of this repository remains unchanged, i.e. RCL for OPC corporate members and GPL-V2 for anybody else. Note that under the RCL all derivative work you author including schemas, scripts, source code, documentation, etc. -- must be shared.
-If you create such derivative work, please submit the changed files as a ZIP to opc-rcl-submissions@opcfoundation.online instead of issuing a pull request.**
-
-**When composing the email please:**
-1) **Use an email address from the member who is complying with the license;**
-2) **Use subject of the form: 'RCL Submission from {MemberName}';**
----
-
-The OPC Foundation has formally released the OPC Unified Architecture ANSI C Stack and Sample Code to the community.
-
-Please review official site page (http://opcfoundation.github.io/UA-AnsiC-Legacy/) for:
- * Overview
- * Licensing
- * Sample Applications overview
 
 ## Runtime Dependencies
 
